@@ -18,7 +18,7 @@
     <a href="https://github.com/koushikhathwar"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/koushikhathwar">View Demo</a>
+    <a href="https://koushikhathwar.github.io/website_portfolio">View Demo</a>
     ·
     <a href="https://github.com/koushikhathwar">Report Bug</a>
     ·
